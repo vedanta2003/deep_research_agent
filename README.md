@@ -173,4 +173,3 @@ The graph structure makes the system modular, allowing for easy scaling and sect
 
 This code provides a powerful framework for automating technical report writing. It combines real-time research with structured content generation, balancing depth, accuracy, and speed. By handling sections in parallel and synthesizing results intelligently, it significantly reduces manual effort while maintaining high-quality output.
 
-Would you like me to help optimize this flow, improve the prompts, or guide you through building a complete report using your own section topics? Let me know! 🚀
